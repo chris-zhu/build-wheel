@@ -1,0 +1,16 @@
+{
+  "name": "build-wheel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chris-zhu/build-wheel.git",
+  "author": "Chris_zy <1633711653@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll",
+    "coverage": "jest --coverage"
+  }
+}
